@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "flag-icon-css": "^3.0.0",
+    "node-sass": "^4.9.4",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-modal": "^3.5.1"
@@ -15,6 +16,12 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-scripts": "^1.1.4"
-  }
+    "react-scripts": "2.1.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
